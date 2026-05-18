@@ -1,0 +1,16 @@
+# Compiled executables
+*.exe
+*.o
+cvm
+cvm++
+
+# WebAssembly builds (if you compiled them)
+*.js
+*.wasm
+
+# Output and logs
+outputs/
+*.txt
+
+# Editor directories
+.vscode/
